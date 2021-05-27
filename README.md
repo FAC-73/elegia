@@ -23,11 +23,11 @@ Launch application [Heroku Deployment](https://protected-retreat-51011.herokuapp
 
 - [x] This application requires at minimum 2 pages:
 
-- [x] [Search](Search.png) - User can search for books via the Google Books API and render them here. User has the option to "View" a book, bringing them to the book on Google Books, or "Save" a book, saving it to the Mongo database.
+- [x] Search - User can search for books via the Google Books API and render them here. User has the option to "View" a book, bringing them to the book on Google Books, or "Save" a book, saving it to the Mongo database.
 
-- [x] Saved](Saved.png) - Renders all books saved to the Mongo database. User has an option to "View" the book, bringing them to the book on Google Books, or "Delete" a book, removing it from the Mongo database.
+- [x] Saved - Renders all books saved to the Mongo database. User has an option to "View" the book, bringing them to the book on Google Books, or "Delete" a book, removing it from the Mongo database.
 
-- [x] Start by using the [01-Ins_Mern/create-react-express](../01-Activities/01-Ins_Mern/create-react-express) example as a base for your application.
+- [x] Start by using the create-react-express example as a base for your application.
 
 - [x] Add code to connect to a MongoDB database named `googlebooks` using the mongoose npm package.
 
