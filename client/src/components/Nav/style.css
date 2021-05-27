@@ -1,0 +1,27 @@
+.navbar {
+    height: 80px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.534);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.349);
+    background: linear-gradient(-45deg, #FA5B21, #fa9c21, #FA5B21, #fa9c21);
+	background-size: 400% 400%;
+	animation: gradient 7s ease infinite;
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 20%;
+	}
+	50% {
+		background-position: 100% 20%;
+	}
+	100% {
+		background-position: 0% 20%;
+	}
+}

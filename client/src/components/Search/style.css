@@ -1,0 +1,21 @@
+.form-layout {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.form-control {
+    margin: 12px 0 12px 0;
+    font-family: 'Poppins', sans-serif;
+    height: 60px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.164);
+}
+
+.submitBtn {
+    background-color: #FA5B21;
+
+}

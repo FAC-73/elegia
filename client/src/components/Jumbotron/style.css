@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("../../utils/images/jumbotron-img.jpg");
+    background-size: cover;
+    height: 320px;
+    background-position: center;
+    border-radius: 0px;
+}
+
+.myText {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    text-shadow: black;
+    transform: translateY(50px);
+    font-family: 'Poppins', sans-serif;
+}
