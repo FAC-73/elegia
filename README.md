@@ -16,7 +16,7 @@ Launch application [Heroku Deployment](https://protected-retreat-51011.herokuapp
 - [Questions](#questions)
 
 
-![Book Search App](https://github.com/FAC-73/elegia/blob/main/src/assets/homepage1.png?raw=true)
+![Book Search App](https://github.com/FAC-73/elegia/blob/main/client/src/utils/images/README.png?raw=true)
 <br />
 
 ## Requirements
